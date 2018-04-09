@@ -73,7 +73,7 @@ string facename = "Tahoma"
 long textcolor = 16711680
 long backcolor = 79416533
 boolean enabled = false
-string text = "<Your text here>"
+string text = "<Your text here>1"
 alignment alignment = center!
 boolean focusrectangle = false
 end type
