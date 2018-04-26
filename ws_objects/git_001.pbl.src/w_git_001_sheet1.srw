@@ -29,9 +29,9 @@ end on
 
 type cb_1 from commandbutton within w_git_001_sheet1
 integer x = 192
-integer y = 84
-integer width = 402
-integer height = 116
+integer y = 85
+integer width = 404
+integer height = 117
 integer taborder = 10
 integer textsize = -10
 integer weight = 400
@@ -39,6 +39,6 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "1"
+string text = "12"
 end type
 
